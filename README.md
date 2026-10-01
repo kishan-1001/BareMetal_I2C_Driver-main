@@ -173,21 +173,7 @@ STM32-I2C-OLED-BareMetal/
 │   └── blackpill_stm32f411.h  # Direct hardware register definitions and memory maps  
 └── README.md                  # Project documentation  
 
----
-**** Resources****
 
-[STM32: Reference Manual] https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xc-e-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
-
-[SSDOLED: Datasheet] https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf?spm=a2ty_o01.29997173.0.0.794a55fb5y1dI0&file=SSD1306.pdf
-
-[OLED UserGuide] https://www.nxp.com/docs/en/user-guide/UM10204.pdf?spm=a2ty_o01.29997173.0.0.794a55fb5y1dI0&file=UM10204.pdf
-
-
-## 👨‍ Author
-
-**Asif Ahamed S**
-
-Final Year - Electronics & Communication Engineering
 
 Rajalakshmi Engineering College, Chennai
 
