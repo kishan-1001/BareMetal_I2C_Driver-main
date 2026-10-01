@@ -174,9 +174,3 @@ STM32-I2C-OLED-BareMetal/
 └── README.md                  # Project documentation  
 
 
-
-Rajalakshmi Engineering College, Chennai
-
-🔗 LinkedIn: linkedin.com/in/asif-ahamed-s-ece
-
-📧 Email: asifahamed670@gmail.com
